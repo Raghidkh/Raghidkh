@@ -1,6 +1,6 @@
 # Hello There!  <img src="assets/hello.gif" width="80">
 
-I am <strong>Charbel</strong> aka <strong>Murf</strong>, a CS student, who loves programming in a creative manner.
+I am <strong>Raghid, a CS student, who loves programming in a creative manner.
 
 - <img src="assets/112-book-morph-outline.gif" width="30"> Currently working on a research in ML
 - <img src="assets/134-target-outline.gif" width="30"> I’m currently learning Genetic Programming.
