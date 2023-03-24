@@ -88,7 +88,7 @@ I am <strong>Raghid, a CS student, who loves programming in a creative manner.
 <p align="left"> <a href="https://discord.com/users/Murf#1533" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Murf-y" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/charbel-fayad-7ba9b1203" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Murf_y" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 # Github Achievements <img src="assets/focus.gif" width="30">
-[![trophy](https://github-profile-trophy.vercel.app/?username=murf-y&column=8&margin-w=15&margin-h=15&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raghidkh-y&column=8&margin-w=15&margin-h=15&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murf-y&label=Profile%20views&color=0e75b6&style=flat" alt="murf-y" /> </p>
 
 
