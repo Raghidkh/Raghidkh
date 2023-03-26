@@ -66,13 +66,10 @@ I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into 
 
 # Github Achievements <img src="assets/focus.gif" width="30">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raghidkh-y&column=8&margin-w=15&margin-h=15&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raghidkh&label=Profile%20views&color=0e75b6&style=flat" alt="murf-y" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raghidkh&label=Profile%20views&color=0e75b6&style=flat" alt="Raghidkh" /> </p>
 
 
 # Stats <img src="assets/stats.gif" width="40">
- <div align="center">
-  <img src="https://www.codewars.com/users/Murf/badges/large" alt="Murf's Codewars badge">
-</div>
 <p align="center">
    <table>
       <tr>
