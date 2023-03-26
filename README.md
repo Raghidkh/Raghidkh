@@ -1,4 +1,4 @@
-# Hey There!  <img src="assets/31548-robot-says-hello(1)" width="80">
+# Hey There!  <img src="assets/31548-robot-says-hello(1).gif" width="80">
 
 I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into magic spells, creating wonders in the digital realm!
 
