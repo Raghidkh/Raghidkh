@@ -2,12 +2,11 @@
 
 I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into magic spells, creating wonders in the digital realm!
 
-- <img src="assets/112-book-morph-outline.gif" width="30"> Currently working on a SE project
-- <img src="assets/19-magnifier-zoom-search-outline.gif" width="30"> Ask me about anything tech related
+ Currently working on a SE project
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
-# Tools and Languages <img src="assets/409-tool-outline.gif" width="40">
+# Tools and Languages 
 
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
 <div style="display:flex"> 
@@ -60,26 +59,7 @@ I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into 
 </div>
 <hr>
 
-# Socials <img src="assets/hello.gif" width="40">
-
-<p align="left"><a href="https://www.github.com/Raghidkh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-# Github Achievements <img src="assets/focus.gif" width="30">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raghidkh-y&column=8&margin-w=15&margin-h=15&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raghidkh&label=Profile%20views&color=0e75b6&style=flat" alt="Raghidkh" /> </p>
 
 
-# Stats <img src="assets/stats.gif" width="40">
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Raghid :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Raghidkh&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true"> </td>
-       <td><img alt="Raghid:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghidkh&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"> </td>
-     </tr>
-   </table>
-</p>
+
 
