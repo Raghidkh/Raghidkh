@@ -59,7 +59,9 @@ I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into 
 </div>
 <hr>
 
-
+# Github Achievements <img src="assets/focus.gif" width="30">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raghidkh-y&column=8&margin-w=15&margin-h=15&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raghidkh&label=Profile%20views&color=0e75b6&style=flat" alt="Raghidkh" /> </p>
 
 
 
