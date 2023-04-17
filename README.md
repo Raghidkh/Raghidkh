@@ -59,19 +59,6 @@ I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into 
 </div>
 <hr>
 
-# Stats <img src="assets/stats.gif" width="40">
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Raghid :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Raghidkh&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true"> </td>
-       <td><img alt="Raghid:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghidkh&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"> </td>
-     </tr>
-   </table>
-</p>
 
 
 
