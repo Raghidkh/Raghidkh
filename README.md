@@ -4,7 +4,7 @@ I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into 
 
  Currently working on a SE project
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # Tools and Languages 
 
