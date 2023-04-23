@@ -1,7 +1,7 @@
 <h1 align="start">Hey There!  👋</h1>
 I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into magic spells, creating wonders in the digital realm!
 
-- 📫 How to reach me **raghidkhoury2@gmail,com**
+- 📫 How to reach me **raghidkhoury2@gmail.com**
 - Currently working on a SE project
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes)
