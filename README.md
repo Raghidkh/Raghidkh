@@ -41,7 +41,7 @@ I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into 
    </div>
 
 
-<h3 align="left">Connect with me:</h3>     <img src="assests/contributor.gif" width="50px">
+<h3 align="left">Connect with me:</h3>     <img src="assets/contributor.gif" width="50px">
 <p align="left">
 <a href="https://instagram.com/raghid khoury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raghid khoury" height="30" width="40" /></a> <a href="https://fb.com/raghid khoury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raghid khoury" height="30" width="40" /></a>
 </p>
