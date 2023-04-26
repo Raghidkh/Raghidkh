@@ -6,7 +6,8 @@ I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes)
  
- # Tools and Languages 
+ # Tools and Languages   <img src="./profile/code.gif" width="50px">
+
 
 <h3><img height="20px" src="https://img.shields.io/badge/Language-467870"/></h3>
 <div style="display:flex"> 
