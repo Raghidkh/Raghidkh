@@ -1,4 +1,5 @@
-<h1 align="start">Hey There!  👋</h1>
+# Hey There! <img src="assets/wave.gif" width="50px">
+
 I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into magic spells, creating wonders in the digital realm!
 
 - 📫 How to reach me **raghidkhoury2@gmail.com**
