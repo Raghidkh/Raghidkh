@@ -5,7 +5,7 @@ I am <strong>Raghid<strong>, the coding ninja who transforms lines of code into 
 - 📫 How to reach me **raghidkhoury2@gmail.com**
 - Currently working on a SE project
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
  
  # Tools and Languages    <img src="assets/code.gif" width="50px">
 
